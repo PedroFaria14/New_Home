@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O projeto que desenvolvi é um site de vendas de imóveis, onde os usuários poderão encontrar diversas opções de propriedades para compra. Utilizei React para a construção da interface do usuário, o Firebase para o banco de dados e autenticação, além de HTML e CSS para a estruturação e estilização do site
