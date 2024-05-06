@@ -1,0 +1,64 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.search_form{
+    max-width: 100%;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+
+.search_form input{
+    margin-right: 10px;
+    width: 50%;
+    
+}   
+.search_form button{
+    border-radius: 20px;
+}
+
+.noposts{
+
+    text-align: center;
+}
+
+.noposts p{
+    margin-bottom: 1.5rem;
+}
+.noposts a {
+    padding:  10px 25px ;
+}
+
+.styles.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.styles.home h1{
+    margin-top: 2rem;
+}
+
+.post-list img {
+    max-width: 600px;
+    min-width: 300;
+    max-height: 700px;
+}
+@media (max-width: 768px) {
+    .post-list img {
+        width: 100px;
+        height:auto;
+        min-width: 250px; 
+       
+    }
+
+ 
+   
+}

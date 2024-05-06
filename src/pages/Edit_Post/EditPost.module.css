@@ -1,0 +1,64 @@
+.edit_Post{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+ 
+
+}
+
+.edit_Post h2{
+    text-align: center;
+    font-size: 2.2rem;
+}
+
+.edit_Post p{
+
+    color: black;
+    margin-bottom: 2rem;
+}
+
+div h2{
+    align-items: center;
+}
+.edit_post form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.edit_post form p {
+    margin-bottom: 1rem;
+}
+
+.edit_post form .btn-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+.edit_post p{
+    margin-top: 1rem;
+    color: black;
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+}
+
+
+.edit_post form {
+    background-color: white;
+    padding: 1rem;
+    margin-top: 2em;
+    border-radius: 15px;
+    box-shadow: rgb(0, 0, 0,0.5) 2px 3px 15px 1px;
+}
+
+.edit_post span{
+    margin-bottom: 1rem;
+}
+
+.edit_post img{
+    max-width: 600px;
+}

@@ -1,0 +1,19 @@
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.about h2{
+ 
+    padding: 1rem;
+}
+
+.about p{
+    margin: 1rem;
+    padding: 1rem;
+    width: 50%;
+}
