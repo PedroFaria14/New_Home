@@ -48,16 +48,22 @@
 
 .post-list img {
     max-width: 600px;
-    min-width: 300;
+    min-width: 300px;
     max-height: 700px;
 }
 @media (max-width: 768px) {
     .post-list img {
-        width: 100px;
+        width: 50px;
         height:auto;
-        min-width: 250px; 
+        min-width: 200px; 
        
     }
+
+    
+    .home h1 {
+        margin-left:1rem ;
+        font-size: 1.2rem;
+      }
 
  
    
