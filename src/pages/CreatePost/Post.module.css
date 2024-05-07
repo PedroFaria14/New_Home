@@ -35,7 +35,7 @@
     background-color: #e1e1e1;
 }
 
-/* Estilos para telas menores */
+
 @media screen and (max-width: 768px) {
     .create_Post {
         text-align: left;
