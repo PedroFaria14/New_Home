@@ -204,4 +204,7 @@ button[disabled] {
     font-size: 0.7rem;
     margin-left: 2rem;
   }
+  .post_row .btn{
+    height: 25px;
+  }
 }
