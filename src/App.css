@@ -12,3 +12,13 @@
 
 
 
+  @media only screen and (max-width: 750px) {
+    .btn-outline{
+      width: 20px;
+      margin-left:2rem ;
+    }
+    h1 {
+      margin-left:1rem ;
+      font-size: 1.2rem;
+    }
+}
